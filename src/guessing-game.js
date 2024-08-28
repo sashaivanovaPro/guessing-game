@@ -1,7 +1,7 @@
 class GuessingGame {
   setRange(min, max) {
-    this.min = min;
-    this.max = max;
+    this.min = min + 1;
+    this.max = max - 1;
   }
 
   guess() {
