@@ -1,3 +1,6 @@
+### The school task was fixed by using the correct tests from @gentoosiast's Pull Request. 
+### The JS file was corrected according to the binary search algorithm, but this version is not passing the school tests.
+
 ### Guessing game
 
 ---
